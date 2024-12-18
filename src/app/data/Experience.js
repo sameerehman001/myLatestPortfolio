@@ -1,0 +1,46 @@
+const experience = [
+  {
+    designation: "Frontend Web Developer",
+    companyName: "Codistan Ventures",
+    titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
+    joinDate: "2 Nov, 2023",
+    endDate: "present",
+    location: "i11/3 Islamabad",
+    country: "Pakistan",
+    website: "https://www.codistan.org",
+    technologies: ["Javascript", "Reactjs", "Nextjs", "TailwindCSS", "MUI"],
+  },
+  {
+    designation: "Frontend Freelance Web Developer",
+    companyName: "Fiverr & UpWork",
+    titleText: "Developing front-end (B2C, B2B) as a freencer web developer",
+    joinDate: "12 Jun, 2022",
+    endDate: "present",
+    location: "Islamabad",
+    country: "Pakistan",
+    website: "https://www.upwork.com/",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "Reactjs",
+      "NextJS",
+      "MUI",
+      "TailwindCSS",
+    ],
+  },
+  {
+    designation: "Frontend Web Development Internship",
+    companyName: "Bikter Tech",
+    titleText: "Figma to ReactJS Interface",
+    joinDate: "11 April, 2022",
+    endDate: "11 June, 2022",
+    location: "Gulberg Greens, Islamabad",
+    country: "Pakistan",
+    website: "https://bikter.com/",
+    technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+  },
+];
+
+export default experience;
