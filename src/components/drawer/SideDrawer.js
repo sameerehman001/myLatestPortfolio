@@ -46,9 +46,9 @@ const SideDrawer = ({ open, onClose }) => {
               {/* <Typography variant="h5" className="py-7">
                 Website Name
               </Typography> */}
-              <p className="text-3xl text-[#00d070] max-[550px]:text-2xl max-[400px]:text-xl py-7">
+              <p className="!text-3xl !text-[#00d070] max-[550px]:text-2xl max-[400px]:text-xl py-7">
                 {`<S`}
-                <span className="text-white">{`amee`}</span>
+                <span className="!text-white">{`amee`}</span>
                 {`/> `}
               </p>
             </Box>
@@ -56,11 +56,11 @@ const SideDrawer = ({ open, onClose }) => {
             <Box className="flex flex-col">
               {navItems.map((item, index) => (
                 <div key={index}>
-                  <hr className="border-green-800 w-[100%]" />
+                  <hr className="!border-green-800 w-[100%]" />
                   <a href={item.href} onClick={handleNavigation}>
                     <Typography
                       variant="body1"
-                      className="py-4 text-[#fff] text-lg font-normal"
+                      className="py-4 !text-[#fff] !text-lg !font-normal"
                     >
                       {item.text}
                     </Typography>
