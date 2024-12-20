@@ -16,7 +16,7 @@ const MuiAccordion = () => {
           defaultExpanded={
             item.companyName == "Codistan Ventures" ? true : false
           }
-          className="bg-transparent border border-gray-700 rounded-[10px] text-[#fbfbfb]"
+          className="!bg-transparent border !border-gray-700 rounded-[10px] !text-[#fbfbfb]"
         >
           <AccordionSummary
             expandIcon={<ExpandMoreIcon sx={{ color: "#00d070" }} />}
