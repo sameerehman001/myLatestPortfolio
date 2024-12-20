@@ -53,6 +53,6 @@
 } */
 
 .custom-paper {
-  @apply !bg-opacity-20 !backdrop-blur-md !bg-green-50 !text-[#00d070] !shadow-none !w-[60%] !sm:w-[40%] !md:w-[40%] !lg:w-[20%];
+  @apply bg-opacity-20 backdrop-blur-md bg-green-50 text-[#00d070] shadow-none w-[60%] sm:w-[40%] md:w-[40%] lg:w-[20%];
   border: none; /* Removes default border */
 }
