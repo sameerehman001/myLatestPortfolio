@@ -21,7 +21,7 @@ const AboutMe = () => {
             About me
           </div>
         </div>
-        <div className="text-[#00d070] text-4xl w-[530px] leading-none max-[800px]:max-w-[100%] max-[550px]:text-3xl max-[400px]:text-2xl">
+        <div className="text-[#00d070] text-4xl w-[530px] leading-none max-[800px]:max-w-[100%] max-[550px]:text-3xl max-[400px]:text-2xl max-[800px]:text-center">
           Transforming visions into exceptional portfolios
         </div>
         <div className="text-3xl text-[#c4c4c4] leading-normal mt-6 max-[550px]:text-2xl max-[400px]:text-xl max-[800px]:mt-0">

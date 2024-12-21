@@ -18,7 +18,7 @@ const Footer = () => {
   return (
     <div className="flex justify-center flex-col">
       <hr className="border-gray-700 w-[100%]" />
-      <div className="flex justify-between py-6">
+      <div className="flex justify-between py-6 max-[500px]:flex-col max-[500px]: gap-6">
         <div className="flex max-[800px]:flex-col gap-6">
           <a href="#">
             <p className="text-3xl text-[#00d070] max-[550px]:text-2xl max-[400px]:text-xl">
@@ -34,7 +34,7 @@ const Footer = () => {
             +92 306 514 5627
           </div>
         </div>
-        <div className="flex gap-8 items-center text-[#c4c4c4] max-[800px]:flex-col">
+        <div className="flex gap-8 items-center text-[#c4c4c4] max-[800px]:flex-col max-[500px]:items-start">
           <div
             onClick={phoneNoClick}
             className="max-[800px]:hidden cursor-pointer"
