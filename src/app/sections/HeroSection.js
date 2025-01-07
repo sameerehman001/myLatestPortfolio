@@ -8,7 +8,7 @@ import GreenButton from "@/components/Buttons/GreenButton";
 const HeroSection = () => {
   const handleDownloadResume = () => {
     const link = document.createElement("a");
-    link.href = "/SameeUrResume_MERN.pdf"; // Path to the file in the public folder
+    link.href = "/Samee-Ur-Rehman LatestResume.pdf"; // Path to the file in the public folder
     link.download = "Samee_Ur_Rehman_Resume.pdf"; // Set the desired file name
     link.click();
   };
