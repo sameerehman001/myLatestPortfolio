@@ -6,7 +6,7 @@ import attach from "../../assets/images/attachment-vector-icon-png_267486.png";
 const Card = ({ title, paragraph, languages, githubLink, liveUrl, image }) => {
   return (
     <div className="flex flex-wrap gap-6 max-w-[630px]">
-      <div className="flex flex-col max-w-[350px] max-h-[503px] border-gray-700 border-2 rounded-2xl max-[470px]:max-h-[550px]">
+      <div className="flex flex-col max-w-[300px] max-h-[503px] border-gray-700 border-2 rounded-2xl max-[470px]:max-h-[550px]">
         {/* <div className="w-[100%] h-[240px]"> */}
         <Image
           src={image}

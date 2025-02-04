@@ -1,6 +1,6 @@
 const experience = [
   {
-    designation: "Frontend Web Developer",
+    designation: "Frontend Web Engineer",
     companyName: "Codistan Ventures",
     titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
     joinDate: "2 Nov, 2023",
@@ -9,6 +9,17 @@ const experience = [
     country: "Pakistan",
     website: "https://www.codistan.org",
     technologies: ["Javascript", "Reactjs", "Nextjs", "TailwindCSS", "MUI"],
+  },
+  {
+    designation: "Junior Frontend Reactjs Developer",
+    companyName: "Lancer Hut",
+    titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
+    joinDate: "11 July, 2022",
+    endDate: "25 July, 2023",
+    location: "Police-Foundation, Islamabad",
+    country: "Pakistan",
+    website: "https://lancerhut.com/#contact",
+    technologies: ["Javascript", "Reactjs", "Nextjs", "MUI"],
   },
   {
     designation: "Frontend Freelance Web Developer",

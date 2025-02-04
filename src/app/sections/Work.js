@@ -20,7 +20,7 @@ const Work = () => {
 
   return (
     <div id="work" className="flex justify-center">
-      <div className="flex justify-center w-[70%]">
+      <div className="flex justify-center w-[90%]">
         <div className="flex flex-col py-20 gap-5">
           <div className="flex justify-center">
             <div className="bg-[#2a2a2a] w-fit inline-block py-2 px-4 rounded-[7px]">
