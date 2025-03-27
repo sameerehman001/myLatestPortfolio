@@ -4,7 +4,7 @@ const experience = [
     companyName: "Codistan Ventures",
     titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
     joinDate: "2 Nov, 2023",
-    endDate: "present",
+    endDate: "Feb 2025",
     location: "i11/3 Islamabad",
     country: "Pakistan",
     website: "https://www.codistan.org",
