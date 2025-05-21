@@ -1,5 +1,16 @@
 const experience = [
   {
+    designation: "Frontend Web Developer",
+    companyName: "Tech Solutions Pro",
+    titleText: "Developing front-end (B2C, B2B) in Tech Solutions Pro",
+    joinDate: "March, 2025",
+    endDate: "Present",
+    location: "Gulberg Green, Islamabad",
+    country: "Pakistan",
+    website: "https://techsolutionspro.co.uk/",
+    technologies: ["Javascript", "Reactjs", "Nextjs", "TailwindCSS", "MUI"],
+  },
+  {
     designation: "Frontend Web Engineer",
     companyName: "Codistan Ventures",
     titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
