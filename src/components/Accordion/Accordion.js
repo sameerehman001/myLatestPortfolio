@@ -14,9 +14,7 @@ const MuiAccordion = () => {
       {experience.map((item, index) => (
         <div key={index}>
           <Accordion
-            defaultExpanded={
-              item.companyName == "Codistan Ventures" ? true : false
-            }
+            defaultExpanded={index == 0 ? true : false}
             className="!bg-transparent !border !border-gray-700 !rounded-[10px] !text-[#fbfbfb]"
           >
             <AccordionSummary
