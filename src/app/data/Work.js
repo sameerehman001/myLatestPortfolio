@@ -4,6 +4,7 @@ import predictiveImage from "../../assets/images/prdictive.png";
 import zeemDev from "../../assets/images/ZeemDev.png";
 import videoOverlay from "../../assets/images/VideoOverlay.png";
 import myPortfolio from "../../assets/images/portfolio_website.png";
+import jandjip from "../../assets/images/jandjip.png";
 
 const projectData = [
   {
@@ -21,6 +22,22 @@ const projectData = [
     image: ranchersImg,
     githubLink: "https://github.com/sameerehman001",
     liveUrl: "https://rancherscafe.com/",
+  },
+  {
+    title: "Jandjip(J&J)",
+    paragraph:
+      "I have worked on jandjip project and gained much knowledge and learn more about styled components, Rest API is used, and redux toolkit is used for state management.",
+    languages: [
+      "javascript",
+      "Reactjs",
+      "Styled-component",
+      "CSS",
+      "Redux-Toolkit",
+      "Restful API",
+    ],
+    image: jandjip,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "https://jandjip.com/",
   },
   {
     title: "Predictive Analysis",
