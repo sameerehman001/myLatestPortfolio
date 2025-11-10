@@ -1,10 +1,21 @@
 const experience = [
   {
+    designation: "MERN Stack Developer",
+    companyName: "Poshmaal Technologies",
+    titleText: "Developing front-end (B2C, B2B) in Poshmaals Technologies",
+    joinDate: "Aug, 2025",
+    endDate: "present",
+    location: "Gulberg Green, Islamabad",
+    country: "Pakistan",
+    website: "https://www.poshmaals.com/",
+    technologies: ["Javascript", "Typescript","Reactjs", "Nextjs", "TailwindCSS","Shadcn", "MUI"],
+  },
+  {
     designation: "Frontend Web Developer",
     companyName: "Tech Solutions Pro",
-    titleText: "Developing front-end (B2C, B2B) in Tech Solutions Pro",
+    titleText: "Developed front-end (B2C, B2B) in Tech Solutions Pro",
     joinDate: "March, 2025",
-    endDate: "Present",
+    endDate: "Aug 2025",
     location: "Gulberg Green, Islamabad",
     country: "Pakistan",
     website: "https://techsolutionspro.co.uk/",
@@ -13,7 +24,7 @@ const experience = [
   {
     designation: "Frontend Web Engineer",
     companyName: "Codistan Ventures",
-    titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
+    titleText: "Developed front-end (B2C, B2B) in Codistan Ventures",
     joinDate: "2 Nov, 2023",
     endDate: "Feb 2025",
     location: "i11/3 Islamabad",
@@ -24,7 +35,7 @@ const experience = [
   {
     designation: "Junior Frontend Reactjs Developer",
     companyName: "Lancer Hut",
-    titleText: "Developing front-end (B2C, B2B) in Codistan Ventures",
+    titleText: "Developed front-end (B2C, B2B) in Codistan Ventures",
     joinDate: "11 July, 2022",
     endDate: "25 July, 2023",
     location: "Police-Foundation, Islamabad",
@@ -35,7 +46,7 @@ const experience = [
   {
     designation: "Frontend Freelance Web Developer",
     companyName: "Fiverr & UpWork",
-    titleText: "Developing front-end (B2C, B2B) as a freencer web developer",
+    titleText: "Developed front-end (B2C, B2B) as a freencer web developer",
     joinDate: "12 Jun, 2022",
     endDate: "present",
     location: "Islamabad",

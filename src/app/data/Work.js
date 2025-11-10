@@ -5,8 +5,44 @@ import zeemDev from "../../assets/images/ZeemDev.png";
 import videoOverlay from "../../assets/images/VideoOverlay.png";
 import myPortfolio from "../../assets/images/portfolio_website.png";
 import jandjip from "../../assets/images/jandjip.png";
+import mealanoImg from "../../assets/images/Mealano.png"
+import ethioImg from "../../assets/images/Ethio.png"
 
 const projectData = [
+  {
+    title: "Ethio Freight",
+    paragraph:
+      "Ethio is a trucking and transportation application, which has multiple roles(Career, Shipper, Broker, Admin-Portal) and i am currently working on each role.",
+    languages: [
+      "Typescript",
+      "Reactjs",
+      "Ant Design",
+      "TailwindCSS",
+      "Redux-Toolkit",
+      "Redux Thunk",
+      "Restful API's",
+    ],
+    image: ethioImg,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "sameerehman001",
+  },
+   {
+    title: "Mealano Ecommerce Application",
+    paragraph:
+      "I have worked on Mealano Ecommerce Application, which has multiple roles(seller, wholeseller, Affiliate-Portal, User-Portal, Admin-Portal) and i have worked on each role.",
+    languages: [
+      "Javascript",
+      "Nextjs",
+      "Tailwindcss",
+      "MUI",
+      "Redux-Toolkit",
+      "Redux Thunk",
+      "Restful API's",
+    ],
+    image: mealanoImg,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "https://maelano.com/landingpage",
+  },
   {
     title: "Ranchers",
     paragraph:
