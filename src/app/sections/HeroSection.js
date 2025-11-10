@@ -8,7 +8,7 @@ import GreenButton from "@/components/Buttons/GreenButton";
 const HeroSection = () => {
   const handleDownloadResume = () => {
     const link = document.createElement("a");
-    link.href = "/resume_samee_rehman Frontend.pdf"; // Path to the file in the public folder
+    link.href = "/Samee Ur Rehman_Resume.pdf"; // Path to the file in the public folder
     link.download = "Samee-Ur-Rehman_ResumeCV.pdf"; // Set the desired file name
     link.click();
   };
@@ -41,7 +41,7 @@ const HeroSection = () => {
             <span className="text-[#00d070]">
               {`<Frontend Web Developer /> `}
             </span>
-            with 2 years of experience creating user friendly websites.
+            with 3 years of experience creating user friendly websites.
           </p>
         </div>
         <div>

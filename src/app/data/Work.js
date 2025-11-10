@@ -27,16 +27,15 @@ const projectData = [
     liveUrl: "sameerehman001",
   },
    {
-    title: "Mealano Ecommerce Application",
+    title: "Mealano Ecommerce App",
     paragraph:
-      "I have worked on Mealano Ecommerce Application, which has multiple roles(seller, wholeseller, Affiliate-Portal, User-Portal, Admin-Portal) and i have worked on each role.",
+      "I have worked on Mealano Ecommerce Application, which has multiple roles(seller, wholeseller, Affiliate-Portal, User and Admin-Portal). i have worked on each role.",
     languages: [
       "Javascript",
       "Nextjs",
       "Tailwindcss",
       "MUI",
-      "Redux-Toolkit",
-      "Redux Thunk",
+      "Redux-Toolkit",      
       "Restful API's",
     ],
     image: mealanoImg,
