@@ -14,7 +14,7 @@ const experience = [
     designation: "Frontend Web Developer",
     companyName: "Tech Solutions Pro",
     titleText: "Developed front-end (B2C, B2B) in Tech Solutions Pro",
-    joinDate: "March, 2025",
+    joinDate: "Feb, 2025",
     endDate: "Aug 2025",
     location: "Gulberg Green, Islamabad",
     country: "Pakistan",
