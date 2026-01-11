@@ -4,7 +4,7 @@ import React from "react";
 
 const StartProject = () => {
   const letsStart = () => {
-    const fiverrUrl = "https://www.fiverr.com/bluesky395";
+    const fiverrUrl = "https://www.upwork.com/freelancers/~01b8aaa0427c2706ec";
     window.open(fiverrUrl, "_blank", "noopener,noreferrer");
   };
   return (

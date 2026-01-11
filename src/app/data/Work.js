@@ -7,8 +7,23 @@ import myPortfolio from "../../assets/images/portfolio_website.png";
 import jandjip from "../../assets/images/jandjip.png";
 import mealanoImg from "../../assets/images/Mealano.png"
 import ethioImg from "../../assets/images/Ethio.png"
+import interdental from "../../assets/images/interdental.png"
 
 const projectData = [
+  {
+    title: "Interdental Care",
+    paragraph:
+      "Interdental Care is a bridge between patient and dental doctors, where I have worked on the front-end part using Reactjs and TailwindCSS for styling.",
+    languages: [
+      "Reactjs",
+      "TailwindCSS",
+      "Redux",
+      "Restful API's",
+    ],
+    image: interdental,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "https://interdentalusa.com/",
+  },
   {
     title: "Ethio Freight",
     paragraph:
@@ -24,7 +39,7 @@ const projectData = [
     ],
     image: ethioImg,
     githubLink: "https://github.com/sameerehman001",
-    liveUrl: "sameerehman001",
+    liveUrl: "https://www.ethiotransportation.com/ethioFreightWeb-staging/",
   },
    {
     title: "Mealano Ecommerce App",
