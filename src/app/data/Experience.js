@@ -1,9 +1,9 @@
 const experience = [
   {
-    designation: "MERN Stack Developer",
+    designation: "Frontend Developer",
     companyName: "Poshmaal Technologies",
     titleText: "Developing front-end (B2C, B2B) in Poshmaals Technologies",
-    joinDate: "Aug, 2025",
+    joinDate: "Sep, 2025",
     endDate: "present",
     location: "Gulberg Green, Islamabad",
     country: "Pakistan",
@@ -15,7 +15,7 @@ const experience = [
     companyName: "Tech Solutions Pro",
     titleText: "Developed front-end (B2C, B2B) in Tech Solutions Pro",
     joinDate: "Feb, 2025",
-    endDate: "Aug 2025",
+    endDate: "Sep 2025",
     location: "Gulberg Green, Islamabad",
     country: "Pakistan",
     website: "https://techsolutionspro.co.uk/",
