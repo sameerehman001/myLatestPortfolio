@@ -8,8 +8,41 @@ import jandjip from "../../assets/images/jandjip.png";
 import mealanoImg from "../../assets/images/Mealano.png"
 import ethioImg from "../../assets/images/Ethio.png"
 import interdental from "../../assets/images/interdental.png"
+import busroute from "../../assets/busroute.png"
+import easeFix from "../../assets/easefix.png"
+
 
 const projectData = [
+  {
+    title: "EaseFix",
+    paragraph:
+      "Interdental Care is a bridge between patient and dental doctors, where I have worked on the front-end part using Reactjs and TailwindCSS for styling.",
+    languages: [
+      "Nextjs",
+      "TailwindCSS",
+      "Redux",
+      "Material-UI",
+      "Restful API's",
+    ],
+    image: easeFix,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "https://www.easefix.com/",
+  },
+  {
+    title: "BusRoute",
+    paragraph:
+      "Interdental Care is a bridge between patient and dental doctors, where I have worked on the front-end part using Reactjs and TailwindCSS for styling.",
+    languages: [
+      "Nextjs",
+      "TailwindCSS",
+      "Redux",
+      "Material-UI",
+      "Restful API's",
+    ],
+    image: busroute,
+    githubLink: "https://github.com/sameerehman001",
+    liveUrl: "https://busroute.co/",
+  },
   {
     title: "Interdental Care",
     paragraph:
