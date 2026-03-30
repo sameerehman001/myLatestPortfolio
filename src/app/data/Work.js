@@ -16,7 +16,7 @@ const projectData = [
   {
     title: "EaseFix",
     paragraph:
-      "Interdental Care is a bridge between patient and dental doctors, where I have worked on the front-end part using Reactjs and TailwindCSS for styling.",
+      "Built a service platform with Next.js and TypeScript, created responsive UI with MUI, integrated APIs, handled roles, added features and fixed bugs.",
     languages: [
       "Nextjs",
       "TailwindCSS",
@@ -31,7 +31,7 @@ const projectData = [
   {
     title: "BusRoute",
     paragraph:
-      "Interdental Care is a bridge between patient and dental doctors, where I have worked on the front-end part using Reactjs and TailwindCSS for styling.",
+      "Built a route management app with Next.js and TypeScript, created responsive UI with MUI, integrated APIs, handled roles, added features and fixed bugs.",
     languages: [
       "Nextjs",
       "TailwindCSS",
