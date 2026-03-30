@@ -8,8 +8,8 @@ import jandjip from "../../assets/images/jandjip.png";
 import mealanoImg from "../../assets/images/Mealano.png"
 import ethioImg from "../../assets/images/Ethio.png"
 import interdental from "../../assets/images/interdental.png"
-import busroute from "../../assets/busroute.png"
-import easeFix from "../../assets/easefix.png"
+import busroute from "../../assets/images/busroute.png"
+import easeFix from "../../assets/images/easefix.png"
 
 
 const projectData = [
