@@ -1,10 +1,21 @@
 const experience = [
   {
     designation: "Frontend Developer",
+    companyName: "Golden Hawk Technologies",
+    titleText: "Developing front-end (B2C, B2B) in Golden Hawk Technologies",
+    joinDate: "Jan, 2026",
+    endDate: "present",
+    location: "DHA-II, Islamabad",
+    country: "Pakistan",
+    website: "https://www.linkedin.com/company/goldenhawktechnologies/posts/?feedView=all",
+    technologies: ["Javascript", "Typescript","Reactjs", "Nextjs", "TailwindCSS","Shadcn", "MUI"],
+  },
+  {
+    designation: "Frontend Developer",
     companyName: "Poshmaal Technologies",
     titleText: "Developing front-end (B2C, B2B) in Poshmaals Technologies",
     joinDate: "Jan, 2025",
-    endDate: "present",
+    endDate: "Jan, 2026",
     location: "Gulberg Green, Islamabad",
     country: "Pakistan",
     website: "https://www.poshmaals.com/",
